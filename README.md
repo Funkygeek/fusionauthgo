@@ -1,0 +1,2 @@
+# fusionauthgo
+Hack for funsionauth
